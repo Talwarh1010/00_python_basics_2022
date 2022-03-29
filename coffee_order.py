@@ -10,10 +10,11 @@ while keep_going == "":
         continue
     
     else:
+        print()
         print("Good choice")
+        print()
         break
     
 print()
 print("End of program")
 print()
-    
